@@ -1,9 +1,10 @@
 
 
 ![](https://www.espe.edu.ec/wp-content/uploads/2022/01/ESPEtransparente.png)
-
 Nombres: 
+
 NRC: 10049
+
 FECHA:13-07-2023
 
 #### Importe de Librerias
@@ -151,7 +152,7 @@ Si no hay datos válidos, se imprime el mensaje "No hay datos válidos para apli
 ![](https://scontent.fuio10-1.fna.fbcdn.net/v/t39.30808-6/359790223_299542665764630_3906310885665390985_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeGMNEry29IrEI3lUeYIcgbFnS9K1ZiUCpadL0rVmJQKlmKCzJlKklESUeikWxmwTDaVrzwUDnGMFNm-4_8rU7iY&_nc_ohc=3RZZ6WMRo-oAX8CIl8c&_nc_ht=scontent.fuio10-1.fna&oh=00_AfDrGk2XrMua1LBJLyES8Mfl_79fqzYkDPDbBQOuGMnotg&oe=64B4233E)
 
 
-### El siguiente codigo tiene como finalidad:
+### El siguiente código tiene como finalidad:
 Realizar la extracción de datos desde una base de datos MongoDB, 
 Realiza la transformación y validación de los datos, 
 Aplica el análisis de Componentes Principales (PCA) a los datos normalizados y 
