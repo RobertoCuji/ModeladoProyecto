@@ -8,7 +8,7 @@ NRC: 10049
 FECHA:13-07-2023
 
 #### Importe de Librerias
-Las lineas de codigo de cabecera importan las bibliotecas necesarias para realizar operaciones relacionadas con bases de datos MongoDB, manipulación de matrices y vectores numéricos, análisis de componentes principales y preprocesamiento de datos utilizando escalado estándar. Estas bibliotecas proporcionan las herramientas necesarias para realizar operaciones avanzadas en el código y son ampliamente utilizadas en el campo de la ciencia de datos y el aprendizaje automático.
+Las líneas de código de cabecera importan las bibliotecas necesarias para realizar operaciones relacionadas con bases de datos MongoDB, manipulación de matrices y vectores numéricos, análisis de componentes principales y preprocesamiento de datos utilizando escalado estándar. Estas bibliotecas proporcionan las herramientas necesarias para realizar operaciones avanzadas en el código y son ampliamente utilizadas en el campo de la ciencia de datos y el aprendizaje automático.
 ```python
 from pymongo import MongoClient
 import numpy as np
